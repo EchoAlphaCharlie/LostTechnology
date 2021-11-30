@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-class",
+      "appliesTo": "official/class.dat",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-class",
+      "appliesTo": "official/class.dat",
+      "type": "launch"
+    }
+  ]
+}
